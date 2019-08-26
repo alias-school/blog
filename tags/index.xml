@@ -6,26 +6,89 @@
     <description>Recent content in Tags on ALiAS Writes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Jun 2019 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://asetalias.in/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>DM</title>
-      <link>http://asetalias.in/blog/tags/dm/</link>
-      <pubDate>Sun, 02 Jun 2019 04:00:00 +0000</pubDate>
+      <title>ALiAS</title>
+      <link>http://asetalias.in/blog/tags/alias/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://asetalias.in/blog/tags/dm/</guid>
+      <guid>http://asetalias.in/blog/tags/alias/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Open-Source</title>
-      <link>http://asetalias.in/blog/tags/open-source/</link>
-      <pubDate>Sun, 02 Jun 2019 04:00:00 +0000</pubDate>
+      <title>Alumni</title>
+      <link>http://asetalias.in/blog/tags/alumni/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://asetalias.in/blog/tags/open-source/</guid>
+      <guid>http://asetalias.in/blog/tags/alumni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experiences</title>
+      <link>http://asetalias.in/blog/tags/experiences/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://asetalias.in/blog/tags/experiences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FOSS</title>
+      <link>http://asetalias.in/blog/tags/foss/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://asetalias.in/blog/tags/foss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programming</title>
+      <link>http://asetalias.in/blog/tags/programming/</link>
+      <pubDate>Fri, 14 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://asetalias.in/blog/tags/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rust</title>
+      <link>http://asetalias.in/blog/tags/rust/</link>
+      <pubDate>Fri, 14 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://asetalias.in/blog/tags/rust/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Android</title>
+      <link>http://asetalias.in/blog/tags/android/</link>
+      <pubDate>Wed, 05 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://asetalias.in/blog/tags/android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>App-Dev</title>
+      <link>http://asetalias.in/blog/tags/app-dev/</link>
+      <pubDate>Wed, 05 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://asetalias.in/blog/tags/app-dev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flutter</title>
+      <link>http://asetalias.in/blog/tags/flutter/</link>
+      <pubDate>Wed, 05 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://asetalias.in/blog/tags/flutter/</guid>
       <description></description>
     </item>
     
@@ -39,11 +102,29 @@
     </item>
     
     <item>
+      <title>DM</title>
+      <link>http://asetalias.in/blog/tags/dm/</link>
+      <pubDate>Sun, 02 Jun 2019 04:00:00 +0000</pubDate>
+      
+      <guid>http://asetalias.in/blog/tags/dm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>maintainer</title>
       <link>http://asetalias.in/blog/tags/maintainer/</link>
       <pubDate>Sun, 02 Jun 2019 04:00:00 +0000</pubDate>
       
       <guid>http://asetalias.in/blog/tags/maintainer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open-Source</title>
+      <link>http://asetalias.in/blog/tags/open-source/</link>
+      <pubDate>Sun, 02 Jun 2019 04:00:00 +0000</pubDate>
+      
+      <guid>http://asetalias.in/blog/tags/open-source/</guid>
       <description></description>
     </item>
     
@@ -84,11 +165,11 @@
     </item>
     
     <item>
-      <title>FOSS</title>
-      <link>http://asetalias.in/blog/tags/foss/</link>
+      <title>Google</title>
+      <link>http://asetalias.in/blog/tags/google/</link>
       <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://asetalias.in/blog/tags/foss/</guid>
+      <guid>http://asetalias.in/blog/tags/google/</guid>
       <description></description>
     </item>
     
@@ -98,15 +179,6 @@
       <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>http://asetalias.in/blog/tags/gsoc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Google</title>
-      <link>http://asetalias.in/blog/tags/google/</link>
-      <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://asetalias.in/blog/tags/google/</guid>
       <description></description>
     </item>
     
@@ -138,20 +210,20 @@
     </item>
     
     <item>
-      <title>ALiAS</title>
-      <link>http://asetalias.in/blog/tags/alias/</link>
-      <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://asetalias.in/blog/tags/alias/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Coding</title>
       <link>http://asetalias.in/blog/tags/coding/</link>
       <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>http://asetalias.in/blog/tags/coding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>communities</title>
+      <link>http://asetalias.in/blog/tags/communities/</link>
+      <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://asetalias.in/blog/tags/communities/</guid>
       <description></description>
     </item>
     
@@ -215,15 +287,6 @@
       <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>http://asetalias.in/blog/tags/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>communities</title>
-      <link>http://asetalias.in/blog/tags/communities/</link>
-      <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://asetalias.in/blog/tags/communities/</guid>
       <description></description>
     </item>
     
